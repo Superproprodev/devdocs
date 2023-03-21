@@ -47,7 +47,7 @@ GEM
     in_threads (1.5.3)
     method_source (1.0.0)
     mini_portile2 (2.4.0)
-    minitest (5.14.4)
+    minitest (5.18.0)
     multi_json (1.13.1)
     mustermann (1.0.3)
     net-sftp (3.0.0)
