@@ -8,7 +8,7 @@ jobs:
     runs-on: ubuntu-20.04
     if: github.repository == 'freeCodeCamp/devdocs'
     steps:
-    - uses: actions/checkout@v2.6.0
+    - uses: actions/checkout@v2.7.0
     - name: Set up Ruby
       uses: ruby/setup-ruby@v1.144.2
       with:
